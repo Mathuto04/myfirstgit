@@ -3,3 +3,5 @@ hello world
 It's notepad
 
 1234567890
+
+Git is cool
